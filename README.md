@@ -54,10 +54,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## I am Ole-Martin Bratteng
+## I am Osama Al-zabidi
 
-- Software Engineer at [daily.dev](https://daily.dev/)
-- Loves a freshly brewed cup of coffee
+- Software Developer at [Octuapps](https://octuapps.com/)
 
 ![Metrics](https://raw.githubusercontent.com/omamkaz/omamkaz/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/omamkaz/omamkaz/github-metrics/notable.svg)
