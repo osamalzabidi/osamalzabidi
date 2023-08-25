@@ -1,25 +1,6 @@
 # Hi there 👋
 
-<div align="left">
-  <a href="https://twitter.com/omamkaz">
-    <img
-      src="https://img.shields.io/twitter/follow/omamkaz?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/omamkaz/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-  <a rel="me" href="https://cloud-native.social/@omamkaz">
-    <img
-      src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square"
-      alt="Cloud Native Mastodon"
-    />
-  </a>
-
+<div align="right">
   <a href="https://app.daily.dev/omamkaz">
     <img 
       src="https://api.daily.dev/devcards/a3b52d2e4b9e4530b8bc0c3d79107b26.png?r=mdi" 
