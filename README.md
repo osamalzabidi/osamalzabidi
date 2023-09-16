@@ -109,7 +109,7 @@
 
 <tr><td>
 
-**Editors**
+**IDEs**
 
 <td>
 
