@@ -122,30 +122,11 @@
 
 <br>
 
-<p>
-<!-- Dark Mode -->
-<img width="49.7%" src="http://github-readme-stats.vercel.app/api?username=omamkaz&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true"/>
-<img width="49.7%" src="http://github-readme-streak-stats.herokuapp.com?user=omamkaz&theme=gruvbox&hide_border=true"/>
-
-</p>
-
-<details>
-<summary><b>📚 Language Usage</b></summary>
-<br>
-<p align="center">
-<!-- Dark Mode -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omamkaz&layout=compact&theme=gruvbox&hide=html&langs_count=8&hide_border=true" width="40.9%"/> 
-
-</p>
-</details>
-
-<details>
 <summary><b> 🏆 Trophies </b></summary>
 <br>
 <p align="center"> 
 <a href="https://github.com/omamkaz"><img width="97.8%" src="https://github-profile-trophy.vercel.app/?username=omamkaz&theme=gruvbox&column=7&margin-w=5&no-frame=true" alt="omamkaz" /></a>
 </p>
-</details>
 
 <br>
 
