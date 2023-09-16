@@ -77,7 +77,7 @@
 </tr>
 <tr><td>
 
-**OS**
+**Operation Systems**
 
 <td>
 
@@ -91,7 +91,7 @@
 
 <tr><td>
 
-**DB**
+**Data Base**
 
 <td>
 
