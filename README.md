@@ -13,7 +13,7 @@
 
 ## I am Osama Al-zabidi
 
-- Software Developer at [Octuapps](https://octuapps.com/)
+- Software Developer
 
 ## Dev Stack
 
