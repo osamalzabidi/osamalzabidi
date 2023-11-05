@@ -17,16 +17,20 @@
 
 ## Dev Stack
 
-<table width="100%">
-<tr><td width="13%">
+<table>
+<tr>
+<td>
 
 **Frontend**
+</td>
 
-<td width="87%">
+<td> 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+</td>
+
 <!-- uncomment this when I get it!
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 <!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -35,9 +39,13 @@
 <!-- ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
 <!-- ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white 
 -->
-</tr><tr><td>
+
+</tr>
 
 <!--
+<tr>
+<td>
+
 **Design**
 
 <td>
@@ -52,7 +60,11 @@
 <tr><td>
 -->
 
-**AppDev**
+<tr>
+<td>
+
+  **AppDev**
+</td>
 
 <td>
 
@@ -64,7 +76,9 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
+</td>
 </tr>
+
 <tr><td>
 
 **DevOPs**
