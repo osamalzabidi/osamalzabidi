@@ -6,18 +6,18 @@
       src="https://api.daily.dev/devcards/a3b52d2e4b9e4530b8bc0c3d79107b26.png?r=mdi" 
       width="256"
       align="right"
-      alt="Osama Al-zabidi's Dev Card"
+      alt="Osama Mohammed Al-zabidi's Dev Card"
       />
   </a>
 </div>
 
-## I am Osama Al-zabidi
+## I am Osama Mohammed Al-zabidi
 
 - Software Developer
 
 ## Dev Stack
 
-<table width="100%">
+<table width="90%">
 <tr><td width="13%">
 
 **Frontend**
