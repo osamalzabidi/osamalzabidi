@@ -1,10 +1,10 @@
 # Hi there 👋
 
-<div align="right" width="90%">
+<div align="right">
   <a href="https://app.daily.dev/omamkaz">
     <img 
       src="https://api.daily.dev/devcards/a3b52d2e4b9e4530b8bc0c3d79107b26.png?r=mdi" 
-      width="256"
+      width="253"
       align="right"
       alt="Osama Mohammed Al-zabidi's Dev Card"
       />
@@ -17,7 +17,7 @@
 
 ## Dev Stack
 
-<table width="90%" align="top">
+<table width="100%">
 <tr><td width="13%">
 
 **Frontend**
