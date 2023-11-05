@@ -17,7 +17,7 @@
 
 ## Dev Stack
 
-<table width="90%">
+<table width="90%" align="top">
 <tr><td width="13%">
 
 **Frontend**
