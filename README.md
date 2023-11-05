@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<div align="right">
+<div align="right" width="90%">
   <a href="https://app.daily.dev/omamkaz">
     <img 
       src="https://api.daily.dev/devcards/a3b52d2e4b9e4530b8bc0c3d79107b26.png?r=mdi" 
