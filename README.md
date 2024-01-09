@@ -1,5 +1,6 @@
 # Hi there 👋
 
+<!--
 <div align="right">
   <a href="https://app.daily.dev/omamkaz">
     <img 
@@ -10,12 +11,14 @@
       />
   </a>
 </div>
+-->
 
 ## I am Osama Mohammed Al-zabidi
 
 - Software Developer
 
 <div align="left">
+  
 ## Dev Stack
 
 <table>
