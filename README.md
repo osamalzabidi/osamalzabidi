@@ -4,7 +4,7 @@
   <a href="https://app.daily.dev/omamkaz">
     <img 
       src="https://api.daily.dev/devcards/a3b52d2e4b9e4530b8bc0c3d79107b26.png?r=mdi" 
-      width="253"
+      width="200"
       align="right"
       alt="Osama Mohammed Al-zabidi's Dev Card"
       />
