@@ -15,6 +15,7 @@
 
 - Software Developer
 
+<div align="left">
 ## Dev Stack
 
 <table>
@@ -153,3 +154,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omamkaz)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCl_2PksiLZcXzGiawYHhY_Q)
+
+</div>
