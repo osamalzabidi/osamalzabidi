@@ -133,7 +133,6 @@
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Sublime Text 4](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
 ![Obsidian.md](https://img.shields.io/badge/-Obsidian.md-blueviolet)
 ![Android Studio](https://img.shields.io/badge/Android-Studio-90E59A.svg?style=flat&logo=android-studio&logoColor=green)
 </table>
