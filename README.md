@@ -73,7 +73,8 @@
 <td>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+<!--![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)-->
+![Flet](https://img.shields.io/badge/Flet-59BBE8?style=flat&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-gray?style=flat&logo=flask&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-092E20?style=flat&logo=fastapi&logoColor=dark-green)
@@ -85,11 +86,12 @@
 
 <tr><td>
 
-**DevOPs**
+**DevOps**
 
 <td>
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Github-111111?style=flat&logo=git&logoColor=white)
 <!-- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) -->
 
 </tr>
@@ -135,6 +137,7 @@
 ![Sublime Text 4](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Obsidian.md](https://img.shields.io/badge/-Obsidian.md-blueviolet)
 ![Android Studio](https://img.shields.io/badge/Android-Studio-90E59A.svg?style=flat&logo=android-studio&logoColor=green)
+![Cursor AI Editor](https://img.shields.io/badge/Cursor-4D4D4D.svg?style=flat&logo=cursor&logoColor=white)
 </table>
 
 <br>
