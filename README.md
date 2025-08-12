@@ -13,7 +13,7 @@
 </div>
 -->
 
-## I'm Osama Mohammed Al-zabidi
+## I'm Osama Mohammed Al-Zabidi
 
 - Software Developer
 
