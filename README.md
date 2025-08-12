@@ -2,7 +2,7 @@
 
 <!--
 <div align="right">
-  <a href="https://app.daily.dev/omamkaz">
+  <a href="https://app.daily.dev/osamalzabidi">
     <img 
       src="https://api.daily.dev/devcards/a3b52d2e4b9e4530b8bc0c3d79107b26.png?r=mdi" 
       width="200"
@@ -145,19 +145,19 @@
 <summary><b> 🏆 Trophies </b></summary>
 <br>
 <p align="center"> 
-<a href="https://github.com/omamkaz"><img width="97.8%" src="https://github-profile-trophy.vercel.app/?username=omamkaz&theme=gruvbox&column=7&margin-w=5&no-frame=true" alt="omamkaz" /></a>
+<a href="https://github.com/osamalzabidi"><img width="97.8%" src="https://github-profile-trophy.vercel.app/?username=osamalzabidi&theme=gruvbox&column=7&margin-w=5&no-frame=true" alt="osamalzabidi" /></a>
 </p>
 
 <br>
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omamkaz)
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/omamkaz)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21057272/omamkaz)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/omamkaz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omamkaz)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamalzabidi)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/osamalzabidi)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21057272/osamalzabidi)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/osamalzabidi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/osamalzabidi)
 <!-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@omamkaz)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@osamalzabidi)
 
 </div>
