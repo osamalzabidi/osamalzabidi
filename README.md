@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Osama Mohammed Al-Zabidi
 
 <a href="https://app.daily.dev/osamalzabidi">
-  <img align="right" width="150" style="border-radius:50%" src="https://api.daily.dev/devcards/a3b52d2e4b9e4530b8bc0c3d79107b26.png?r=mdi" alt="Osama Mohammed Al-Zabidi"/>
+  <img src="https://api.daily.dev/devcards/v2/b8kZ58iNG5Rdn7Wdoodkk.png?type=default&r=4ed" align="right" width="200" style="border-radius:50%" alt="Osama Mohammed Al-Zabidi's Dev Card"/>
 </a>
 
 I'm a **Software Developer** passionate about building modern applications, automating workflows, and exploring cutting-edge tech.  
