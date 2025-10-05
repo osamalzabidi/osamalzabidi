@@ -74,5 +74,7 @@ I'm a **Software Developer** passionate about building modern applications, auto
 ## 💡 Quote
 *"Sporty code, Healthy software :)"* – Osama Mohammed
 
-### 🔝 Top Contributed Repo
+---
+
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=osamalzabidi&limit=5&theme=default&combine_all_yearly_contributions=true)
