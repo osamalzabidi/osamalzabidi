@@ -14,7 +14,7 @@ I'm a **Software Developer** passionate about building modern applications, auto
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamalzabidi&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=osamalzabidi&show_icons=true&theme=gruvbox&count_private=true&hide_border=true"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamalzabidi&layout=compact&theme=gruvbox"/>
 </p>
