@@ -32,7 +32,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "docs: update recent activity [skip ci]"
-          MAX_LINES: 8
+          MAX_LINES: 6
           # SHOW_COMMIT_MSG: false
           # EXCLUDE_FORKED_REPOS: true
 
