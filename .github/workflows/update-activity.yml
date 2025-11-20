@@ -4,8 +4,8 @@ on:
   schedule:
     - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:        # Manual trigger
-  push:
-    branches: [ main, master ]
+  # push:
+  #   branches: [ main, master ]
 
 permissions:
   contents: write
@@ -33,8 +33,8 @@ jobs:
         with:
           COMMIT_MSG: "docs: update recent activity [skip ci]"
           MAX_LINES: 8
-          SHOW_COMMIT_MSG: false
-          EXCLUDE_FORKED_REPOS: true
+          # SHOW_COMMIT_MSG: false
+          # EXCLUDE_FORKED_REPOS: true
 
       - name: Push changes
         run: |
