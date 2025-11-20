@@ -4,40 +4,23 @@ on:
   schedule:
     - cron: '0 */6 * * *'  # Run every 6 hours
   workflow_dispatch:        # Manual trigger
-  push:
-    branches: [ main, master ]
 
 permissions:
   contents: write
 
 jobs:
   update-readme:
+    name: Update this repo README with recent activity
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
-
-      - name: Setup Git config
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "docs: update recent activity [skip ci]"
+          COMMIT_MSG: "docs: update recent activity"
           MAX_LINES: 6
-
-      - name: Push changes
-        run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull origin $(git branch --show-current)
-          git add README.md
-          git diff --staged --quiet || git commit -m "docs: update recent activity [skip ci]"
-          git push origin $(git branch --show-current)
+          COMMIT_NAME: GitHub Activity Readme
