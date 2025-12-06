@@ -1,8 +1,8 @@
 name: Update README with recent activity
 
 on:
-  schedule:
-    - cron: '0 */24 * * *'  # Run every 24 hours
+#   schedule:
+#     - cron: '0 */24 * * *'  # Run every 24 hours
   workflow_dispatch:        # Manual trigger
 
 permissions:
