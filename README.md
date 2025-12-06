@@ -72,18 +72,12 @@
 
 <br/>
 
-## 📈 Recent Activity
+<!-- ## 📈 Recent Activity -->
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [abdullahalhoothy/traffic_api_playwright](https://github.com/abdullahalhoothy/traffic_api_playwright)
-2. 💪 Opened PR [#2](undefined) in [abdullahalhoothy/traffic_api_playwright](https://github.com/abdullahalhoothy/traffic_api_playwright)
-3. 🗣 Commented on [#8348](https://github.com/AppFlowy-IO/AppFlowy/issues/8348#issuecomment-3558144298) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-4. 🗣 Commented on [#8348](https://github.com/AppFlowy-IO/AppFlowy/issues/8348#issuecomment-3552978485) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-5. 💪 Opened PR [#5830](undefined) in [flet-dev/flet](https://github.com/flet-dev/flet)
-6. 🗣 Commented on [#8348](https://github.com/AppFlowy-IO/AppFlowy/issues/8348#issuecomment-3547874913) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 <!--END_SECTION:activity-->
 
-<br/>
+<!--<br/>-->
 
 <!--
 ## 🎯 Current Focus
