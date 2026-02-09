@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Senior Python Engineer • Automation Architect • Backend Systems</strong><br/>
+  <strong>Python Developer • Automation Architect • Backend Systems</strong><br/>
   Designing scalable software, high-impact automation, and production-grade systems.
 </p>
 
