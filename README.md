@@ -7,13 +7,13 @@
   Designing scalable software, high-impact automation, and production-grade systems.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://app.daily.dev/osamalzabidi">
     <img src="https://api.daily.dev/devcards/v2/b8kZ58iNG5Rdn7Wdoodkk.png?type=default&r=4ed"
          width="260"
          alt="Osama Al-Zabidi Dev Card"/>
   </a>
-</p>
+</p> -->
 
 ---
 
