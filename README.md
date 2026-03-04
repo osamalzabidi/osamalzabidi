@@ -39,6 +39,12 @@ I value:
   />
 </p>
 
+<p align="center">
+  <a href="https://user-badge.committers.top/yemen_public/osamalzabidi">
+    <img src="https://user-badge.committers.top/yemen_public/osamalzabidi.svg" alt="committers.top badge">
+  </a>
+</p>
+
 ---
 
 ## 🧠 Technical Expertise
