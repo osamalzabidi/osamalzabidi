@@ -95,12 +95,6 @@ I value:
 
 ---
 
-## 💬 Engineering Philosophy
-
-> *“Sporty code. Healthy software. :)”* 🏃‍♂️💻
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -114,5 +108,5 @@ I value:
 ---
 
 <p align="center">
-  <i>⚡ Build deliberately. Automate aggressively. Ship confidently.</i>
+ <strong>“Sporty code. Healthy software. :)”</strong> 🏃‍♂️💻
 </p>
