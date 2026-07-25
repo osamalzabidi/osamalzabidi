@@ -108,5 +108,5 @@ I value:
 ---
 
 <p align="center">
- <strong>“Sporty code. Healthy software. :)”</strong> 🏃‍♂️💻
+ <strong>“Sporty code. Healthy software. :)”</strong>
 </p>
