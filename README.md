@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there,+I'm+Osama+Al-Zabidi+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there,+I'm+Osama+Al-Zabidi+👋;Software Developer" />
 </h1>
 
 <p align="center">
@@ -20,13 +20,13 @@
 ## 👨‍💻 About Me
 
 I’m a **software developer** with deep expertise in **Python backend development, automation, and system design**.  
-My work focuses on building **reliable, scalable, and maintainable software**—from APIs and services to automation pipelines and developer tooling.
+I build **reliable, scalable, maintainable software**—from APIs and services to automation pipelines and developer tooling.
 
 I value:
-- Clean architecture & SOLID principles
-- Automation over repetition
-- Performance, observability, and correctness
-- Pragmatic engineering over hype
+- Clean architecture & SOLID principles.
+- Automation over repetition.
+- Performance, observability, and correctness.
+- Pragmatic engineering over hype.
 
 ---
 
@@ -66,10 +66,10 @@ I value:
 
 ## 🎯 Current Engineering Focus
 
-- Designing **high-performance APIs** with FastAPI
-- Advanced **browser & workflow automation**
-- Building **cross-platform desktop tools**
-- Improving **DX, testing reliability, and CI/CD pipelines**
+- Designing **high-performance APIs** with FastAPI.
+- Advanced **browser & workflow automation**.
+- Building **cross-platform desktop tools**.
+- Improving **DX, testing reliability, and CI/CD pipelines**.
 
 ---
 
@@ -86,7 +86,7 @@ I value:
   <a href="https://www.linkedin.com/in/osamalzabidi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/osamalzabidi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/osamalzabidi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <!-- <a href="https://www.youtube.com/@osamalzabidi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
+  <a href="https://www.youtube.com/@osamalzabidi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <br>
   <!-- Messaging -->
   <a href="https://t.me/osamalzabidi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
